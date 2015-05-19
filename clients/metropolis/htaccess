@@ -1,0 +1,5 @@
+AuthUserFile /home/jackgold/htpasswords/metropolis_pass
+AuthName "Metropolis Magazine"
+
+AuthType Basic
+require valid-user
